@@ -68,7 +68,7 @@ Mostly Log-Mel
 - **[ASiT-CRNN](https://www.sciencedirect.com/science/article/abs/pii/S1051200425000776)**(Digital Signal Processing, Accepted 2025)
 - **[MTDA-HSED](https://ieeexplore.ieee.org/document/10889194)**(ICASSP 2025)
 - **[GE-FPT](https://ieeexplore.ieee.org/document/10889807)**(ICASSP 2025) -[Code](https://github.com/oldtown11/sound-event-detection)
-- **[PretrainedSED](https://ieeexplore.ieee.org/document/10888942)**(ICASSP 2025) [Code](https://github.com/fschmid56/PretrainedSED)
+- **[PretrainedSED](https://ieeexplore.ieee.org/document/10888942)**(ICASSP 2025) -[Code](https://github.com/fschmid56/PretrainedSED)
 - **[ATST-Conformer Dual-Branch](https://www.isca-archive.org/interspeech_2025/dai25_interspeech.html)**(Interspeech 2025)
 
 ### Transformer
