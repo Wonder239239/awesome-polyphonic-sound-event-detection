@@ -92,8 +92,8 @@ Mostly Log-Mel
 - **[DG-SED](https://ieeexplore.ieee.org/document/11249270)**(APSIPA ASC 2025)
 
 ## Post-processing & Inference
-- **[Sound Event Bounding Boxes](https://www.isca-archive.org/interspeech_2024/ebbers24_interspeech.html)** (Interspeech 2024)  
- 
+- **[Sound Event Bounding Boxes](https://www.isca-archive.org/interspeech_2024/ebbers24_interspeech.html)** (Interspeech 2024)
+- **[Boundary-Aware Optimization and Inference](https://arxiv.org/abs/2601.04178)** (arxiv, 2026)
 
 ## DCASE Workshops & Leaderboards
 - [DESED Task Official Baselines](https://github.com/DCASE-REPO/DESED_task) - CRNN, Mean Teacher, etc. 
