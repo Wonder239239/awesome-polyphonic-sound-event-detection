@@ -50,15 +50,15 @@ Mostly Log-Mel
 
 ### CNN-based
 - **[Frequency Dynamic Convolution](https://dcase.community/challenge2020/task-sound-event-detection-in-domestic-environments/results)** (Interspeech 2022)  - [Code](https://github.com/frednam93/FDY-SED)
-- **[Multi-Dimensional Frequency Dynamic Convolution](https://ieeexplore.ieee.org/document/10096306/)** (ICASSP 2023)  
-- **[Frequency Dynamic Convolution with Large Kernel Attention](https://arxiv.org/abs/2306.06461)** (arxiv 2023)  
-- **[Frequency-aware Fourier Filter](https://ieeexplore.ieee.org/document/10889813)**(ICASSP 2025)
-- **[Frequency & Channel Attention](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Nam_32.pdf)**(DCASE WorkShop 2023)
+- **[Multi-Dimensional Frequency Dynamic Convolution](https://ieeexplore.ieee.org/document/10096306/)** (ICASSP 2023)
+- **[Frequency Dynamic Convolution with Large Kernel Attention](https://arxiv.org/abs/2306.06461)** (arxiv 2023)
+- **[Frequency & Channel Attention](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Nam_32.pdf)**(DCASE WorkShop 2023) - [Code](https://github.com/frednam93/lightSED)  
+- **[Diversifying and Expanding Frequency-Adaptive Convolution](https://www.isca-archive.org/interspeech_2024/nam24_interspeech.html)**(Interspeech 2024) - [Code](https://github.com/frednam93/MDFD-SED)
+- **[Multi-Dilated Frequency Dynamic Convolution](https://arxiv.org/abs/2406.13312)**(arxiv 2024) - [Code](https://github.com/frednam93/MDFD-SED)
 - **[Frequency-aware Convolution](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_31)**(MMM 2025)
-- **[Diversifying and Expanding Frequency-Adaptive Convolution](https://www.isca-archive.org/interspeech_2024/nam24_interspeech.html)**(Interspeech 2024)
-- **[Dynamic Attention-Asymmetric Perceptron Network](https://ieeexplore.ieee.org/document/11340695)**(TASLP 2026)
-- **[Multi-Dilated Frequency Dynamic Convolution](https://arxiv.org/abs/2406.13312)**(arxiv 2024)
-- **[Temporal Attention Pooling](https://ieeexplore.ieee.org/document/11462317)**(arxiv 2025)
+- **[Temporal Attention Pooling](https://ieeexplore.ieee.org/document/11462317)**(arxiv 2025) - [Code](https://github.com/frednam93/TAP-FDY-SED)
+- **[Frequency-aware Fourier Filter](https://ieeexplore.ieee.org/document/10889813)**(ICASSP 2025)
+- **[Dynamic Attention-Asymmetric Perceptron Network](https://ieeexplore.ieee.org/document/11340695)**(TASLP 2026)- [Code](https://github.com/NinaGel/dcase_north_whale_open)
 
 ### Pre-trained Models Fine-tuning
 - **[AST-SED](https://ieeexplore.ieee.org/abstract/document/10096853)**(ICASSP 2023)
