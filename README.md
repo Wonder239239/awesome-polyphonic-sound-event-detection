@@ -41,7 +41,7 @@ This list is dedicated to researchers working on polyphonic SED with the DESED d
 | Dataset | Year | # Classes | Duration | Annotation Type | Link |
 |---------|------|-----------|----------|-----------------|------|
 | DESED   | 2019+ | 10        |  | Strong/Weak/Unlabel     | [Official](https://project.inria.fr/desed/) |
-| MAESTRO-Real | 2023 | 10+       |  | Soft Label      | [Paper](https://arxiv.org/abs/2305.12345) |
+| MAESTRO-Real | 2023 | 10+       |  | Soft Label      | [Paper](https://ieeexplore.ieee.org/document/10016759) |
 
 ## Frontend / Acoustic Features
 Mostly Log-Mel
@@ -49,14 +49,14 @@ Mostly Log-Mel
 ## Model Architectures
 
 ### CNN-based
-- **[Frequency Dynamic Convolution](https://dcase.community/challenge2020/task-sound-event-detection-in-domestic-environments/results)** (Interspeech 2022)  - [Code](https://github.com/frednam93/FDY-SED)
+- **[Frequency Dynamic Convolution](https://www.isca-archive.org/interspeech_2022/nam22_interspeech.html)** (Interspeech 2022)  - [Code](https://github.com/frednam93/FDY-SED)
 - **[Multi-Dimensional Frequency Dynamic Convolution](https://ieeexplore.ieee.org/document/10096306/)** (ICASSP 2023)
 - **[Frequency Dynamic Convolution with Large Kernel Attention](https://arxiv.org/abs/2306.06461)** (arxiv 2023)
 - **[Frequency & Channel Attention](https://dcase.community/documents/workshop2023/proceedings/DCASE2023Workshop_Nam_32.pdf)**(DCASE WorkShop 2023) - [Code](https://github.com/frednam93/lightSED)  
 - **[Diversifying and Expanding Frequency-Adaptive Convolution](https://www.isca-archive.org/interspeech_2024/nam24_interspeech.html)**(Interspeech 2024) - [Code](https://github.com/frednam93/MDFD-SED)
 - **[Multi-Dilated Frequency Dynamic Convolution](https://arxiv.org/abs/2406.13312)**(arxiv 2024) - [Code](https://github.com/frednam93/MDFD-SED)
 - **[Frequency-aware Convolution](https://link.springer.com/chapter/10.1007/978-981-96-2054-8_31)**(MMM 2025)
-- **[Temporal Attention Pooling](https://ieeexplore.ieee.org/document/11462317)**(arxiv 2025) - [Code](https://github.com/frednam93/TAP-FDY-SED)
+- **[Temporal Attention Pooling](https://arxiv.org/abs/2504.12670)**(arxiv 2025) - [Code](https://github.com/frednam93/TAP-FDY-SED)
 - **[Frequency-aware Fourier Filter](https://ieeexplore.ieee.org/document/10889813)**(ICASSP 2025)
 - **[Dynamic Attention-Asymmetric Perceptron Network](https://ieeexplore.ieee.org/document/11340695)**(TASLP 2026) - [Code](https://github.com/NinaGel/dcase_north_whale_open)
 
@@ -74,7 +74,7 @@ Mostly Log-Mel
 ### Transformer
 - **[MAT-SED](https://www.isca-archive.org/interspeech_2024/cai24_interspeech.html)**(Interspeech 2024) -[Code](https://github.com/cai525/Transformer4SED)
 - **[JiTTER](https://arxiv.org/abs/2502.20857)**(arxiv 2025) - [Code](https://github.com/frednam93/JiTTER-SED)
-- **[TADL-SED](https://arxiv.org/abs/2502.20857)**(ICASSP 2026)
+- **[TADL-SED](https://ieeexplore.ieee.org/document/11462317)**(ICASSP 2026)
 
 
 ## Data Utilization
