@@ -63,10 +63,12 @@ Mostly Log-Mel
 ### Pre-trained Models Fine-tuning
 - **[AST-SED](https://ieeexplore.ieee.org/abstract/document/10096853)**(ICASSP 2023)
 - **[PaSST-SED](https://www.isca-archive.org/interspeech_2023/li23n_interspeech.html)**(Interspeech 2023)
-- **[ATST-SED](https://ieeexplore.ieee.org/abstract/document/10446159)**(ICASSP 2024)
+- **[ATST-SED](https://ieeexplore.ieee.org/abstract/document/10446159)**(ICASSP 2024) -[Code](https://github.com/Audio-WestlakeU/ATST-SED)
+- **[2024Task4Rank1](https://dcase.community/documents/workshop2024/proceedings/DCASE2024Workshop_Schmid_28.pdf)**(DCASE WorkShop 2024) -[Code](https://github.com/CPJKU/cpjku_dcase24)
 - **[ASiT-CRNN](https://www.sciencedirect.com/science/article/abs/pii/S1051200425000776)**(Digital Signal Processing, Accepted 2025)
 - **[MTDA-HSED](https://ieeexplore.ieee.org/document/10889194)**(ICASSP 2025)
-- **[GE-FPT](https://ieeexplore.ieee.org/document/10889807)**(ICASSP 2025)
+- **[GE-FPT](https://ieeexplore.ieee.org/document/10889807)**(ICASSP 2025) -[Code](https://github.com/oldtown11/sound-event-detection)
+- **[PretrainedSED](https://ieeexplore.ieee.org/document/10888942)**(ICASSP 2025) [Code](https://github.com/fschmid56/PretrainedSED)
 - **[ATST-Conformer Dual-Branch](https://www.isca-archive.org/interspeech_2025/dai25_interspeech.html)**(Interspeech 2025)
 
 ### Transformer
