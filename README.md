@@ -58,7 +58,7 @@ Mostly Log-Mel
 - **[Diversifying and Expanding Frequency-Adaptive Convolution](https://www.isca-archive.org/interspeech_2024/nam24_interspeech.html)**(Interspeech 2024)
 - **[Dynamic Attention-Asymmetric Perceptron Network](https://ieeexplore.ieee.org/document/11340695)**(TASLP 2026)
 - **[Multi-Dilated Frequency Dynamic Convolution](https://arxiv.org/abs/2406.13312)**(arxiv 2024)
-- **[Temporal Attention Pooling](https://arxiv.org/abs/2504.12670)**(arxiv 2025)
+- **[Temporal Attention Pooling](https://ieeexplore.ieee.org/document/11462317)**(arxiv 2025)
 
 ### Pre-trained Models Fine-tuning
 - **[AST-SED](https://ieeexplore.ieee.org/abstract/document/10096853)**(ICASSP 2023)
@@ -72,6 +72,7 @@ Mostly Log-Mel
 ### Transformer
 - **[MAT-SED](https://www.isca-archive.org/interspeech_2024/cai24_interspeech.html)**(Interspeech 2024)
 - **[JiTTER](https://arxiv.org/abs/2502.20857)**(arxiv 2025)
+- **[TADL-SED](https://arxiv.org/abs/2502.20857)**(ICASSP 2026)
 
 
 ## Data Utilization
