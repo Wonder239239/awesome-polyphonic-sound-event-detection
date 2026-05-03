@@ -80,9 +80,9 @@ Mostly Log-Mel
 ## Data Utilization
 
 ### Weakly/Semi-supervised Learning
-- **[Random Consistency Training](https://www.isca-archive.org/interspeech_2022/shao22_interspeech.html)**(Interspeech 2022)
+- **[Random Consistency Training](https://www.isca-archive.org/interspeech_2022/shao22_interspeech.html)**(Interspeech 2022) -[Code](https://github.com/Audio-WestlakeU/RCT)
 - **[Resolution Consistency Training](https://www.isca-archive.org/interspeech_2023/choi23b_interspeech.html)**(Interspeech 2023)
-- **[Local and Global Consistency Regularization](https://ieeexplore.ieee.org/document/10446386/)**(ICASSP 2024)
+- **[Local and Global Consistency Regularization](https://ieeexplore.ieee.org/document/10446386/)**(ICASSP 2024) -[Code](https://github.com/Ming-er/LGC-SED)
 - **[Confidence-aware Mean Teacher](https://www.sciencedirect.com/science/article/abs/pii/S1051200424004196)**(Digital Signal Processing, Available 2024)
 - **[Dual Consistency Training](https://www.sciencedirect.com/science/article/abs/pii/S0925231226002778)**(Neurocomputing, Accepted 2026)
 
