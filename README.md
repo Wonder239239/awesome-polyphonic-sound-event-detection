@@ -5,7 +5,7 @@
 
 Curated reading list for **Polyphonic Sound Event Detection (Polyphonic SED)** methods, focused on the **DESED** dataset (DCASE Task 4). Organized by pipeline stages: Frontend → Model Architectures → Data Utilization → Post-processing.
 
-**Last updated**: May 2026
+**Last updated**: July 2026
 
 Inspired by [soham97/awesome-sound_event_detection](https://github.com/soham97/awesome-sound_event_detection) (narrowed and restructured for DESED-specific methods).
 
@@ -70,6 +70,7 @@ Mostly Log-Mel
 - **[GE-FPT](https://ieeexplore.ieee.org/document/10889807)**(ICASSP 2025) -[Code](https://github.com/oldtown11/sound-event-detection)
 - **[PretrainedSED](https://ieeexplore.ieee.org/document/10888942)**(ICASSP 2025) -[Code](https://github.com/fschmid56/PretrainedSED)
 - **[ATST-Conformer Dual-Branch](https://www.isca-archive.org/interspeech_2025/dai25_interspeech.html)**(Interspeech 2025)
+- **[ATST-SEDv2](https://arxiv.org/abs/2606.29901)**(SMC 2026)
 
 ### Transformer
 - **[MAT-SED](https://www.isca-archive.org/interspeech_2024/cai24_interspeech.html)**(Interspeech 2024) -[Code](https://github.com/cai525/Transformer4SED)
